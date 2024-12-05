@@ -1,1 +1,1 @@
-# semih.hesap.makinesi
+motoko dilinde yazılmış hesap makinesi
